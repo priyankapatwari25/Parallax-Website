@@ -1,0 +1,98 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+
+.pimg{
+    background-image: url(images/image.jpeg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+    background-attachment: fixed;
+}
+
+.ptxt{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text{
+    background: rgb(212, 212, 219);
+    padding: 8px;
+}
+
+.next{
+    padding: 50px 150px;
+    text-align: center;
+    background: rgb(119, 157, 173);
+}
+
+.pimg1{
+    background-image: url(images/image1.jpeg);
+    min-height: 500px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+    background-attachment: fixed;
+}
+
+.ptxt1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text1{
+    background: rgb(149, 149, 176);
+    padding: 8px;
+}
+
+.next1{
+    padding: 50px 150px;
+    text-align: center;
+    background: rgb(56, 110, 133);
+}
+
+.pimg2{
+    background-image: url(images/image2.jpeg);
+    min-height: 500px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+    background-attachment: fixed;
+}
+
+.ptxt2{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text2{
+    background: rgb(149, 149, 176);
+    padding: 8px;
+}
+
+.next2{
+    padding: 50px 150px;
+    text-align: center;
+    background: rgb(56, 110, 133);
+}
+
